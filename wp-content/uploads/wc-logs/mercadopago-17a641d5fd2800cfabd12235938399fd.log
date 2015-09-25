@@ -1,0 +1,102 @@
+03-12-2015 @ 12:48:40 - Payment arguments for order 4385: Array
+(
+    [back_urls] => Array
+        (
+            [success] => https://allsensations.com.br/checkout/order-received/4385?key=wc_order_55018b24cdc0f
+            [failure] => https://allsensations.com.br/cart/?cancel_order=true&order=wc_order_55018b24cdc0f&order_id=4385&redirect&_wpnonce=e64f390fbc
+            [pending] => https://allsensations.com.br/checkout/order-received/4385?key=wc_order_55018b24cdc0f
+        )
+
+    [payer] => Array
+        (
+            [name] => CLAUDIA
+            [surname] => OLIVEIRA
+            [email] => consultora.claudia2015@gmail.com
+        )
+
+    [external_reference] => ASMP-4385
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 1
+                    [unit_price] => 93.6
+                    [currency_id] => BRL
+                    [title] => Pedido 4385 - Calça Saia Pink Coconut x 1, Entrega via 
+                )
+
+        )
+
+)
+
+03-12-2015 @ 12:48:40 - Getting client credentials...
+03-12-2015 @ 12:48:40 - Received valid response from MercadoPago
+03-12-2015 @ 12:48:42 - Payment link generated with success from MercadoPago
+05-12-2015 @ 14:42:31 - Payment arguments for order 4641: Array
+(
+    [back_urls] => Array
+        (
+            [success] => https://allsensations.com.br/checkout/order-received/4641?key=wc_order_5552115312497
+            [failure] => https://allsensations.com.br/cart/?cancel_order=true&order=wc_order_5552115312497&order_id=4641&redirect&_wpnonce=0f243edd08
+            [pending] => https://allsensations.com.br/checkout/order-received/4641?key=wc_order_5552115312497
+        )
+
+    [payer] => Array
+        (
+            [name] => Isabelle
+            [surname] => dos Santos Silva
+            [email] => isaah-93@hotmail.com
+        )
+
+    [external_reference] => ASMP-4641
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 1
+                    [unit_price] => 78.9
+                    [currency_id] => BRL
+                    [title] => Pedido 4641 - Short Saia Amazon x 1, Entrega via 
+                )
+
+        )
+
+)
+
+05-12-2015 @ 14:42:31 - Getting client credentials...
+05-12-2015 @ 14:42:31 - Received valid response from MercadoPago
+05-12-2015 @ 14:42:32 - Payment link generated with success from MercadoPago
+05-29-2015 @ 14:48:06 - Payment arguments for order 4808: Array
+(
+    [back_urls] => Array
+        (
+            [success] => https://allsensations.com.br/checkout/order-received/4808?key=wc_order_55687c2352a6f
+            [failure] => https://allsensations.com.br/cart/?cancel_order=true&order=wc_order_55687c2352a6f&order_id=4808&redirect&_wpnonce=4ac009e4a6
+            [pending] => https://allsensations.com.br/checkout/order-received/4808?key=wc_order_55687c2352a6f
+        )
+
+    [payer] => Array
+        (
+            [name] => risete
+            [surname] => cavalcante
+            [email] => risetecavalcante2015@hotmail.com
+        )
+
+    [external_reference] => ASMP-4808
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [quantity] => 1
+                    [unit_price] => 885.1
+                    [currency_id] => BRL
+                    [title] => Pedido 4808 - Calça Colorfly x 1, Calça Digital Love Emotions x 1, Calça Cirrê Preta x 1, Calça Jacquard Preta x 1, Calça Let it Be x 1, Calça Digital Supermix x 1, Calça Jacquard Rosa x 1, Calça Mescla x 1, Calça NK x 1, Calça MixUp x 1, Calça Purplet x 1
+                )
+
+        )
+
+)
+
+05-29-2015 @ 14:48:06 - Getting client credentials...
+05-29-2015 @ 14:48:07 - Received valid response from MercadoPago
+05-29-2015 @ 14:48:07 - Payment link generated with success from MercadoPago

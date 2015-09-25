@@ -1,0 +1,973 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loyalty Rewards For WooCommerce\n"
+"POT-Creation-Date: 2014-12-02 14:36+0100\n"
+"PO-Revision-Date: 2014-12-02 14:36+0100\n"
+"Last-Translator: Guillaume Prieur-Laurin <gpl@synmedia.ca>\n"
+"Language-Team: SYN Media Inc. <info@synmedia.ca>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../swr-base.php:332
+#, fuzzy, php-format
+msgid ""
+"Vous recevrez <del class=\"swr_old_reward\"%s>%s</del> <ins class="
+"\"swr_new_reward\">%s</ins> <a href=\"%s\">%s</a>"
+msgstr ""
+"Vous recevrez <del class=\"swr_old_reward\">%s</del> <ins class="
+"\"swr_new_reward\">%s</ins> <a href=\"%s\">%s</a>"
+
+#: ../swr-base.php:336
+#, fuzzy, php-format
+msgid ""
+"You'll earn <del class=\"swr_old_reward\"%s>%s</del> <ins class="
+"\"swr_new_reward\">%s</ins> %s"
+msgstr ""
+"Vous recevrez <del class=\"swr_old_reward\">%s</del> <ins class="
+"\"swr_new_reward\">%s</ins> %s"
+
+#: ../swr-base.php:381
+#, php-format
+msgid "Apply my %s %s to this order."
+msgstr "Utiliser %s € de %s pour cette commande."
+
+#: ../swr-base.php:389
+#, php-format
+msgid "Apply %s %s for a discount of %s to this order."
+msgstr "Utiliser %s %s pour un rabais de %s sur cette commande."
+
+#: ../swr-base.php:626
+#, php-format
+msgid "Customer applied %s %s to this order."
+msgstr "Client a appliqué %s %s à cette commande."
+
+#: ../swr-base.php:646
+#, php-format
+msgid "You have earned %s <a href=\"%s\">%s</a> for this order"
+msgstr "Vous avez reçu %s <a href=\"%s\">%s</a> pour cette commande"
+
+#: ../swr-base.php:650
+#, php-format
+msgid "You have earned %s %s for this order"
+msgstr "Vous avez gagné %s de %s pour cette commande"
+
+#: ../swr-base.php:658
+#, php-format
+msgid ""
+"You've missed a great chance to earn %s <a href=\"%s\">%s</a> for this order."
+msgstr ""
+"Vous avez raté une belle occasion de gagner %s <a href=\"%s\">%s</a> pour "
+"cette commande."
+
+#: ../swr-base.php:662
+#, php-format
+msgid "You've missed a great chance to earn %s %s for this order."
+msgstr "Vous avez raté une belle occasion de gagner %s %s pour cette commande."
+
+#: ../swr-base.php:701
+#, php-format
+msgid "You'll earn %s <a href=\"%s\">%s</a> for this order"
+msgstr "Vous recevrez %s <a href=\"%s\">%s</a> pour cette commande"
+
+#: ../swr-base.php:705
+#, php-format
+msgid "You'll earn %s %s for this order"
+msgstr "Vous recevrez %s %s pour cette commande"
+
+#: ../swr-base.php:713
+#, php-format
+msgid ""
+"<a href=\"%s\">Create an account</a> and earn %s <a href=\"%s\">%s</a> for "
+"this order"
+msgstr ""
+"<a href=\"%s\">Créer un compte</a> et gagner %s <a href=\"%s\">%s</a> pour "
+"cette commande"
+
+#: ../swr-base.php:717
+#, php-format
+msgid "<a href=\"%s\">Create an account</a> and earn %s %s for this order"
+msgstr "<a href=\"%s\">Créer un compte</a> et gagner %s %s pour cette commande"
+
+#: ../swr-base.php:757
+#, php-format
+msgid "Customer earned %s %s."
+msgstr "Client à reçu %s %s."
+
+#: ../swr-base.php:775
+#, php-format
+msgid "Removed %s %s."
+msgstr "Soustrait %s %s."
+
+#: ../swr-base.php:932 ../swr-base.php:1219 ../swr-base.php:1353
+#: ../swr-user-rewards-details.php:5 ../swr-user-rewards-details.php:32
+#: ../classes/class-wc-rewards-2.php:25
+#: ../classes/class-wc-settings-rewards.php:25
+msgid "Rewards"
+msgstr "Récompenses"
+
+#: ../swr-base.php:936
+#, php-format
+msgid "Current %s earned"
+msgstr "Vous avez gagné %s actuellement."
+
+#: ../swr-base.php:961 ../templates/my-rewards.php:34
+#, php-format
+msgid "Current %s balance: %s"
+msgstr "%s - Solde courant  %s"
+
+#: ../swr-base.php:965 ../swr-user-rewards-details.php:60
+#: ../templates/my-rewards.php:47
+msgid "Orders"
+msgstr "Commandes"
+
+#: ../swr-base.php:970 ../swr-user-rewards-details.php:81
+#: ../swr-user-rewards-details.php:93 ../templates/my-rewards.php:52
+msgid "Order"
+msgstr "Commande"
+
+#: ../swr-base.php:971 ../swr-base.php:1031 ../templates/my-rewards.php:149
+#: ../templates/my-rewards.php:188
+msgid "Total earned"
+msgstr "Total gagné"
+
+#: ../swr-base.php:972
+msgid "Total Used"
+msgstr "Total utilisé"
+
+#: ../swr-base.php:973 ../swr-base.php:1032 ../swr-user-rewards-details.php:85
+#: ../swr-user-rewards-details.php:97
+#: ../classes/class-wc-settings-rewards.php:205 ../templates/my-rewards.php:56
+#: ../templates/my-rewards.php:150 ../templates/my-rewards.php:189
+msgid "Status"
+msgstr "Statut"
+
+#: ../swr-base.php:1000 ../templates/my-rewards.php:118
+msgid "You have no recent orders."
+msgstr "Vous n'avez aucune commande récente."
+
+#: ../swr-base.php:1024 ../templates/my-rewards.php:142
+msgid "Reviews"
+msgstr "Commentaires"
+
+#: ../swr-base.php:1029 ../swr-user-rewards-details.php:87
+#: ../swr-user-rewards-details.php:99 ../templates/my-rewards.php:53
+#: ../templates/my-rewards.php:147 ../templates/my-rewards.php:186
+msgid "Date"
+msgstr "Date"
+
+#: ../swr-base.php:1030 ../templates/my-rewards.php:148
+msgid "Product"
+msgstr "Produit"
+
+#: ../swr-base.php:1049 ../templates/my-rewards.php:167
+msgid "You have to review an item first"
+msgstr ""
+"Commentez vos achats et recevez 0.05€ de crédit FranKey par avis laissé."
+
+#: ../swr-base.php:1097
+#, fuzzy, php-format
+msgid "%s earned:"
+msgstr "Gagné :"
+
+#: ../swr-base.php:1103
+#, fuzzy, php-format
+msgid "%s used:"
+msgstr "Utilisé :"
+
+#: ../swr-base.php:1223
+msgid "Earned:"
+msgstr "Gagné :"
+
+#: ../swr-base.php:1229
+msgid "Used:"
+msgstr "Utilisé :"
+
+#: ../swr-base.php:1236
+msgid "Calc rewards &rarr;"
+msgstr "Récompenses calc. &rarr;"
+
+#: ../swr-base.php:1264 ../swr-base.php:1308
+#, php-format
+msgid "Required %s"
+msgstr "Requiert %s"
+
+#: ../swr-base.php:1268 ../swr-base.php:1304
+#, fuzzy, php-format
+msgid "Extra %s"
+msgstr "Récompenses"
+
+#: ../swr-base.php:1268 ../swr-base.php:1304
+msgid ""
+"Can be a positive or negative value depending on what you want to achieve."
+msgstr ""
+
+#: ../swr-base.php:1290
+#, php-format
+msgid " or %s %s"
+msgstr "ou %s %s"
+
+#: ../swr-base.php:1297
+#, php-format
+msgid "Buy with %s"
+msgstr "Acheter avec %s"
+
+#: ../swr-base.php:1396
+#, php-format
+msgid "Your %s %s are now available."
+msgstr "Vos %s %s sont maintenant disponibles."
+
+#: ../swr-coupon.php:4
+msgid "Rewards Bonus"
+msgstr "Récompenses bonus"
+
+#: ../swr-coupon.php:5
+#, fuzzy
+msgid "Rewards % Bonus"
+msgstr "Récompenses"
+
+#: ../swr-product-type.php:19 ../swr-product-type.php:26
+msgid "Rewards certificate"
+msgstr "Certificat de récompense."
+
+#: ../swr-refer-a-friend.php:124
+msgid "Please enter at least one valid email address"
+msgstr "Merci d'entrer au moins une adresse email valide."
+
+#: ../swr-refer-a-friend.php:141
+msgctxt "page_slug"
+msgid "refer-a-friend"
+msgstr "referer-un-ami"
+
+#: ../swr-refer-a-friend.php:141
+#: ../classes/class-wc-rewards-referafriend.php:16
+#: ../classes/class-wc-rewards-referafriend.php:46
+#: ../templates/my-rewards.php:181
+msgid "Refer a friend"
+msgstr "referer-un-ami"
+
+#: ../swr-settings.php:16
+msgctxt "page_slug"
+msgid "view-rewards"
+msgstr "voir-recompenses"
+
+#: ../swr-settings.php:17
+#, fuzzy
+msgid "View Rewards"
+msgstr "voir-recompenses"
+
+#: ../swr-user-rewards-details.php:48
+msgid "Show all customers"
+msgstr "Voir tous les clients"
+
+#: ../swr-user-rewards-details.php:59
+msgid "Show all types"
+msgstr "Voir tous les types"
+
+#: ../swr-user-rewards-details.php:61
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../swr-user-rewards-details.php:82 ../swr-user-rewards-details.php:94
+msgid "Customer"
+msgstr "Client"
+
+#: ../swr-user-rewards-details.php:83 ../swr-user-rewards-details.php:95
+#: ../templates/my-rewards.php:54
+msgid "Earned"
+msgstr "Gagné"
+
+#: ../swr-user-rewards-details.php:84 ../swr-user-rewards-details.php:96
+#: ../templates/my-rewards.php:55
+msgid "Used"
+msgstr "Utilisé"
+
+#: ../swr-user-rewards-details.php:86 ../swr-user-rewards-details.php:98
+msgid "Type"
+msgstr "Type"
+
+#: ../classes/class-wc-reward.php:43
+#: ../classes/class-wc-settings-rewards.php:241
+msgid "Settings"
+msgstr "Paramètres."
+
+#: ../classes/class-wc-rewards-referafriend.php:17
+msgid ""
+"Refer a friend is a system of referral for the client. It give the client a "
+"way to email is friend about your website with a unique link to track the "
+"friend's order"
+msgstr ""
+"Parrainer un ami est un système de parrainage pour le client. Il lui permet "
+"d'envoyer un email à un ami à propos de votre site avec un lien unique pour "
+"traquer l'achat de son ami."
+
+#: ../classes/class-wc-rewards-referafriend.php:47
+#, fuzzy
+msgid "Enable Refer a friend"
+msgstr "referer-un-ami"
+
+#: ../classes/class-wc-rewards-referafriend.php:52
+msgid "Minimum Order Amount"
+msgstr "Montant minimum de commande"
+
+#: ../classes/class-wc-rewards-referafriend.php:56
+msgid "Minimum order amount to activate the rewards. Ex.: 100"
+msgstr "Montant minimum de commande pour activer les récompenses. Ex: 100"
+
+#: ../classes/class-wc-rewards-referafriend.php:59
+msgid "Client apply to"
+msgstr ""
+
+#: ../classes/class-wc-rewards-referafriend.php:61
+#: ../classes/class-wc-rewards-referafriend.php:82
+msgid ""
+"Select if a rewards should be given to the first order, any order but just "
+"one time or any order that the friend make."
+msgstr ""
+
+#: ../classes/class-wc-rewards-referafriend.php:66
+#: ../classes/class-wc-rewards-referafriend.php:87
+msgid "First order only"
+msgstr "Première commande uniquement."
+
+#: ../classes/class-wc-rewards-referafriend.php:67
+#: ../classes/class-wc-rewards-referafriend.php:88
+msgid "One order but not exclusively the first"
+msgstr ""
+
+#: ../classes/class-wc-rewards-referafriend.php:68
+#: ../classes/class-wc-rewards-referafriend.php:89
+msgid "Any order that meet the min. order amount."
+msgstr ""
+
+#: ../classes/class-wc-rewards-referafriend.php:73
+msgid "Referer rewards"
+msgstr "Récompenses parrainage"
+
+#: ../classes/class-wc-rewards-referafriend.php:77
+msgid ""
+"Enter the referer rewards.<br />3 possibilities: X%, X/Y, X.<br /><br />Ex.: "
+"1% of the order, 1/20 1 rewards per each 20$ purchase, 2 rewards each time."
+msgstr ""
+
+#: ../classes/class-wc-rewards-referafriend.php:80
+msgid "Friend apply to"
+msgstr ""
+
+#: ../classes/class-wc-rewards-referafriend.php:94
+#, fuzzy
+msgid "Friend rewards"
+msgstr "voir-recompenses"
+
+#: ../classes/class-wc-rewards-referafriend.php:98
+msgid ""
+"Enter the friend rewards.<br />3 possibilities: X%, X/Y, X.<br /><br />Ex.: "
+"1% of the order, 1/20 1 rewards per each 20$ purchase, 2 rewards each time."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:23
+#: ../classes/class-wc-settings-rewards.php:41
+msgid "Rewards Options"
+msgstr "Options de récompenses"
+
+#: ../classes/class-wc-rewards-settings.php:36
+msgid ""
+"Rewards offer your client the possibility of earning credit to your store. "
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:36
+msgid ""
+"Pages have already been created, but if you want to create them anyway <a "
+"href=\"admin.php?page="
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:36
+msgid ""
+"To create the page \"My rewards\" into the site, <a href=\"admin.php?page="
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:36
+msgid ""
+"To give rewards to older orders based on your current settings <a href="
+"\"admin.php?page="
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:36
+msgid "Pages have been created!"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:36
+msgid "Rewards have been given to older review!"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:203
+msgid "Rewards system"
+msgstr "Système de récompenses"
+
+#: ../classes/class-wc-rewards-settings.php:204
+msgid "Enable the Rewards system"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:209
+#, fuzzy
+msgid "Rewards title"
+msgstr "Récompenses"
+
+#: ../classes/class-wc-rewards-settings.php:212
+msgid "The title to appear throughout your website. Ex.: Website's rewards"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:215
+#, fuzzy
+msgid "Rewards type"
+msgstr "Récompenses"
+
+#: ../classes/class-wc-rewards-settings.php:217
+#, fuzzy
+msgid "The type of rewards you want to use. Money or points"
+msgstr "Entrez le message que vous souhaitez envoyer à vos amis"
+
+#: ../classes/class-wc-rewards-settings.php:222
+msgid "Money"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:223
+#: ../classes/class-wc-rewards-settings.php:1186
+msgid "Points"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:228
+msgid "Calculation type"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:230
+#, php-format
+msgid ""
+"How to calculate rewards.<br /><br />Percentage and point per currency: Will "
+"give a customer X%% of the order and calculate points based on how much a "
+"dollar is worth in points. Ex.: 3%% will give %s for an order of %s.<br /"
+"><br />Fraction and point value: Will give a customer X points per X amount "
+"spend and calculate value of points based on how much a point is worth. Ex.: "
+"2/10 will give 2 points per %s."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:235
+#: ../classes/class-wc-rewards-settings.php:241
+msgid "Percentage"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:236
+#: ../classes/class-wc-rewards-settings.php:249
+msgid "Fraction"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:242
+#, php-format
+msgid ""
+"Will give <span id=\"swr_percentage_value_enter\">X</span> for an order of %s"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:246
+msgid ""
+"Percentage of rewards for each order. Ex.: 3%. You can add decimal too. Ex.: "
+"2.75%"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:250
+#, php-format
+msgid ""
+" Ex.: 1/10 will give 1 point for each %s spend, 3/20 will give 3 points for "
+"each %s spend."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:257
+msgid "Fraction type"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:259
+#, php-format
+msgid ""
+"The fraction type determine if a user should get partial points. Ex.: An "
+"order of %s with a fraction of 2/10 will give the customer 3.6 points in "
+"Loose, 3 in Loose with floor rounding, 2 in Strict."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:264
+msgid "Loose"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:265
+msgid "Loose with floor rounding"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:266
+msgid "Strict"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:271
+msgid "How to use the rewards"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:273
+msgid ""
+"Determine how the customer will use his rewards.<br /><br />Points value:"
+"<br />Will give the customer a choice to redeem his rewards has money in the "
+"cart.<br /><br />Specific product:<br />Only specified product can be bought "
+"with their points, you must enter a value in points for each product."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:278
+#: ../classes/class-wc-rewards-settings.php:291
+#: ../classes/class-wc-rewards-settings.php:1194
+msgid "Points value"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:279
+msgid "Table of predefined points value"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:284
+msgid "Points per currency"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:285
+#, php-format
+msgid "points = %s (Only used in Points)"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:292
+msgid "= 1 point"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:298
+msgid "Maximum reward"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:302
+msgid ""
+"Maximum reward that a customer can receive for a single order. Leave empty "
+"if no limit."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:305
+msgid "Minimum cash in points"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:309
+msgid ""
+"Minimum points to be able to cash in. Ex.: 15 points minimum to let the "
+"customer use is points. Leave blank to let any points beeing used."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:315
+#, fuzzy
+msgid "Apply rewards auto"
+msgstr "Récompenses"
+
+#: ../classes/class-wc-rewards-settings.php:318
+msgid "Will automatically apply the customer rewards in the checkout."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:321
+msgid "Rewards to rewards"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:324
+#, php-format
+msgid ""
+"Give rewards to order that use rewards.<br /><br />Rewards to rewards "
+"checked:<br />An order of %s with a percentage of 2%% and customer used is "
+"bank of %s will give %s.<br /><br />Rewards to rewards not checked:<br />An "
+"order of %s with a percentage of 2%% and customer used is bank of %s will "
+"give %s."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:327
+msgid "Deduct shipping with rewards"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:330
+msgid ""
+"Use rewards value to deduct the shipping cost. If not enabled, the customer "
+"will always have to pay for shipping."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:333
+msgid "Apply rewards before tax"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:336
+msgid "Apply rewards money before tax"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:339
+msgid "Where to apply the reward"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:344
+#, fuzzy
+msgid "Total"
+msgstr "Total utilisé"
+
+#: ../classes/class-wc-rewards-settings.php:345
+msgid "Subtotal"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:346
+msgid "Total without shipping"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:349
+msgid ""
+"Select where to apply the rewards, from the total, subtotal or the total "
+"without shipping."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:352
+msgid "Select roles that can use rewards"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:360
+msgid "Payment gateways extra's"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:368
+msgid "Display settings"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:373
+msgid "Rewards page description"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:380
+msgid "Where to show the rewards amount of the cart"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:385
+#: ../classes/class-wc-rewards-settings.php:409
+msgid "Show on top of cart"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:386
+msgid "Show below the cart products table"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:387
+#: ../classes/class-wc-rewards-settings.php:411
+msgid "Show below the cart totals"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:388
+msgid "Show below the shipping calculator"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:389
+msgid "Show before the order checkout form"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:390
+msgid "Show below the order checkout form"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:391
+msgid "Show below the order thanks"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:392
+msgid "Show on top of the rewards page"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:393
+msgid "Show below single product price"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:404
+msgid "\"Use my rewards\" location"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:410
+msgid "Show on top of the cart products table"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:414
+msgid ""
+"Where to show the checkbox Use my rewards for this order on the checkout "
+"page."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:417
+#, fuzzy
+msgid "Reviews settings"
+msgstr "Commentaires"
+
+#: ../classes/class-wc-rewards-settings.php:422
+#, fuzzy
+msgid "Rewards review"
+msgstr "Récompenses"
+
+#: ../classes/class-wc-rewards-settings.php:423
+#: ../classes/class-wc-rewards-settings.php:441
+msgid "Give rewards to customer when they review an item they bought"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:428
+#: ../classes/class-wc-rewards-settings.php:446
+#, fuzzy
+msgid "Rewards amount"
+msgstr "Récompenses"
+
+#: ../classes/class-wc-rewards-settings.php:432
+msgid "How much to give for a customer who review an item"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:435
+msgid "Subscribe settings"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:440
+msgid "Rewards subscription"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:449
+msgid "How much to give for a customer who subscribe to your website."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:1087
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:1108
+msgid "Payment Gateways"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:1127
+msgid "Payment Gateway"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:1128
+#, fuzzy
+msgid "Extra rewards"
+msgstr "Récompenses"
+
+#: ../classes/class-wc-rewards-settings.php:1128
+msgid ""
+"Here you can set how much rewards should be added.<br /><br />Possible "
+"values are :<br />3% for 3% more of the order total<br />1/20 for 1 points "
+"more for each 20$<br />3 for 3 points more.<br /><br />Leave blank for no "
+"extra"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:1192
+msgid "Number of points"
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:1192
+msgid "This is the number of points required to use the value in currency."
+msgstr ""
+
+#: ../classes/class-wc-rewards-settings.php:1194
+msgid "Ex.: 3.34"
+msgstr ""
+
+#: ../classes/class-wc-rewards-update.php:15
+msgid "Updates"
+msgstr ""
+
+#: ../classes/class-wc-rewards-update.php:16
+msgid "Give you access to updates directly from Wordpress"
+msgstr ""
+
+#: ../classes/class-wc-rewards-update.php:38
+msgid "Licence certificate"
+msgstr ""
+
+#: ../classes/class-wc-rewards-update.php:41
+msgid ""
+"Licence certificate ID, can be found on your CodeCanyon account -> Downloads "
+"and click on the 'Licence Certificate' link on my plugin. It should download "
+"a .txt file that contain a line with 'Item Purchase Code:', just copy the "
+"code here!"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:67
+msgid "Shipping Options"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:70
+msgid "Shipping Calculations"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:71
+msgid "Enable shipping"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:79
+msgid "Enable the shipping calculator on the cart page"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:88
+msgid "Hide shipping costs until an address is entered"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:97
+msgid "Shipping Display Mode"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:98
+msgid ""
+"This controls how multiple shipping methods are displayed on the frontend."
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:103
+msgid "Display shipping methods with \"radio\" buttons"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:104
+msgid "Display shipping methods in a dropdown"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:111
+msgid "Shipping Destination"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:112
+msgid "Ship to billing address by default"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:122
+msgid "Only ship to the users billing address"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:132
+msgid "Restrict shipping to Location(s)"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:133
+#, php-format
+msgid ""
+"Choose which countries you want to ship to, or choose to ship to all <a href="
+"\"%s\">locations you sell to</a>."
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:140
+msgid "Ship to all countries you sell to"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:141
+#, fuzzy
+msgid "Ship to all countries"
+msgstr "Voir tous les clients"
+
+#: ../classes/class-wc-settings-rewards.php:142
+msgid "Ship to specific countries only"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:147
+msgid "Specific Countries"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:197
+msgid "Shipping Methods"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:202
+msgid "Default"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:203
+msgid "Name"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:204
+msgid "ID"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:214
+msgid "No default"
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:215
+msgid ""
+"Drag and drop the above shipping methods to control their display order."
+msgstr ""
+
+#: ../classes/class-wc-settings-rewards.php:235
+msgid "Enabled"
+msgstr ""
+
+#: ../syn-includes/syn-auto-update.php:124
+#: ../syn-includes/syn-auto-update.php:129
+msgid ""
+"An unexpected error occurred. Something may be wrong with api.synmedia.ca or "
+"this server&#8217;s configuration. If you continue to have problems, please "
+"try to <a href=\"http://www.synmedia.ca\">contact us</a>."
+msgstr ""
+
+#: ../templates/my-rewards.php:100
+msgid "View"
+msgstr ""
+
+#: ../templates/my-rewards.php:187
+msgid "Username"
+msgstr ""
+
+#: ../templates/my-rewards.php:199
+msgid "Waiting order completion"
+msgstr ""
+
+#: ../templates/my-rewards.php:199
+msgid "Completed"
+msgstr ""
+
+#: ../templates/my-rewards.php:206
+msgid "No friend subscribed."
+msgstr ""
+
+#: ../templates/my-rewards.php:216
+#, php-format
+msgid ""
+"Your user role cannot use or get %s, if you think this is a mistake you can "
+"contact us."
+msgstr ""
+
+#: ../templates/refer-a-friend.php:24
+msgid "Email addresses"
+msgstr "Adresses courriel"
+
+#: ../templates/refer-a-friend.php:24
+msgid "Enter your friend's email addresses, separated by commas"
+msgstr "Entrez les adresses courriel de vos amis séparés par des virgules"
+
+#: ../templates/refer-a-friend.php:26
+msgid "Your message (optional)"
+msgstr "Votre message (optionnel)"
+
+#: ../templates/refer-a-friend.php:26
+msgid "Enter the message you want to send to your friends"
+msgstr "Entrez le message que vous souhaitez envoyer à vos amis"
+
+#: ../templates/refer-a-friend.php:28
+msgid "Send invitations"
+msgstr "Envoyer les invitations"
+
+#: ../templates/refer-a-friend.php:45
+msgid "Place your first order and earn more rewards than ordinary."
+msgstr "Passez votre commande et recevez un bonus de crédit FranKey."
+
+#~ msgid ""
+#~ "You'll earn <span class=\"swr_new_reward\">%s</span> <a href=\"%s\">%s</a>"
+#~ msgstr ""
+#~ "Vous recevrez <span class=\"swr_new_reward\">%s</span> <a href=\"%s\">%s</"
+#~ "a>"
+
+#~ msgid "You'll earn <span class=\"swr_new_reward\">%s</span> %s"
+#~ msgstr "Vous recevrez <span class=\"swr_new_reward\">%s</span> %s"

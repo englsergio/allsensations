@@ -1,0 +1,3588 @@
+03-02-2015 @ 23:06:08 - Requesting session ID...
+03-02-2015 @ 23:06:09 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-02-2015 @ 23:06:09 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Mon, 02 Mar 2015 23:06:08 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-03-2015 @ 16:28:42 - Requesting session ID...
+03-03-2015 @ 16:28:43 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-03-2015 @ 16:28:43 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 03 Mar 2015 16:28:43 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-03-2015 @ 18:27:51 - Requesting session ID...
+03-03-2015 @ 18:27:52 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-03-2015 @ 18:27:52 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 03 Mar 2015 18:27:51 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-03-2015 @ 18:32:34 - Requesting session ID...
+03-03-2015 @ 18:32:35 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-03-2015 @ 18:32:35 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 03 Mar 2015 18:32:35 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-03-2015 @ 18:35:09 - Requesting session ID...
+03-03-2015 @ 18:35:10 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-03-2015 @ 18:35:10 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 03 Mar 2015 18:35:09 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-03-2015 @ 18:40:33 - Requesting session ID...
+03-03-2015 @ 18:40:34 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-03-2015 @ 18:40:34 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 03 Mar 2015 18:40:33 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-03-2015 @ 18:43:29 - Requesting token for order 4232 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ASPS-4232]]></reference>
+  <sender>
+    <name><![CDATA[Luis Sergio]]></name>
+    <email><![CDATA[lsergio@allsensations.com.br]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>05774364577</value>
+      </document>
+    </documents>
+    <phone>
+      <areaCode>71</areaCode>
+      <number>99327773</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Rua Professor Cassilandro Barbuda]]></street>
+      <number>435</number>
+      <district><![CDATA[Costa Azul]]></district>
+      <postalCode>41760110</postalCode>
+      <city><![CDATA[Salvador]]></city>
+      <state>BA</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Bermuda Pink Square - Tamanho: M]]></description>
+      <amount>53.08</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[https://allsensations.com.br/checkout/order-received/4232?key=wc_order_54f600d1571ec]]></redirectURL>
+  <notificationURL><![CDATA[http://allsensations.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+03-03-2015 @ 18:43:30 - PagSeguro Payment Token created with success! The Token is: 360DB9F40F0F4BC884D39FBD12F41FAA
+03-03-2015 @ 20:13:21 - Requesting session ID...
+03-03-2015 @ 20:13:24 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-03-2015 @ 20:13:24 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 03 Mar 2015 20:13:23 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-03-2015 @ 20:15:04 - Requesting token for order 4233 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ASPS-4233]]></reference>
+  <sender>
+    <name><![CDATA[monique cavalcante]]></name>
+    <email><![CDATA[monycante8@hotmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>02864581523</value>
+      </document>
+    </documents>
+    <phone>
+      <areaCode>71</areaCode>
+      <number>91174888</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[av luiz tarquinio]]></street>
+      <number>310</number>
+      <complement><![CDATA[cond torres do atlantico]]></complement>
+      <district><![CDATA[jockey club]]></district>
+      <postalCode>42700000</postalCode>
+      <city><![CDATA[Lauro de Freitas]]></city>
+      <state>BA</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Calça Digital Paradise Sensations - Tamanho: M]]></description>
+      <amount>80.87</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>2</id>
+      <description><![CDATA[Camisa Agacha que Cresce - Cor: Amarela, Tamanho: M]]></description>
+      <amount>34.87</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[https://allsensations.com.br/checkout/order-received/4233?key=wc_order_54f61648b0263]]></redirectURL>
+  <notificationURL><![CDATA[http://allsensations.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+03-03-2015 @ 20:15:06 - PagSeguro Payment Token created with success! The Token is: 1470D7305E5E8F2994DE6FA1DF798CD2
+03-03-2015 @ 20:15:56 - Checking IPN request...
+03-03-2015 @ 20:15:57 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-03-03T17:15:07.000-03:00
+    [code] => 25CAB978-F00A-49DE-9F69-6BB7810F3426
+    [reference] => ASPS-4233
+    [type] => 1
+    [status] => 1
+    [lastEventDate] => 2015-03-03T17:15:54.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 2
+            [code] => 202
+        )
+
+    [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=185b3036bdebeccd4f67cd6cdd0f78397f27f57153f2ed19eb1f6aa354092fee9fd0bd720704a554
+    [grossAmount] => 115.74
+    [discountAmount] => 0.00
+    [feeAmount] => 6.18
+    [netAmount] => 109.56
+    [extraAmount] => 0.00
+    [installmentCount] => 1
+    [itemCount] => 2
+    [items] => SimpleXMLElement Object
+        (
+            [item] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [id] => 1
+                            [description] => Calça Digital Paradise Sensations - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 80.87
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [id] => 2
+                            [description] => Camisa Agacha que Cresce - Cor: Amarela, Tamanho: M
+                            [quantity] => 1
+                            [amount] => 34.87
+                        )
+
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Monique Barbosa Freitas Cavalcante
+            [email] => monycante8@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 71
+                    [number] => 32134008
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => av luiz tarquinio
+                    [number] => 310
+                    [complement] => cond torres do atlantico
+                    [district] => jockey club
+                    [city] => Lauro de Freitas
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 42700000
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)
+
+03-03-2015 @ 20:15:57 - PagSeguro payment status for order 4233 is: 1
+03-03-2015 @ 20:15:57 - PagSeguro payment status for order 4233 is: 1
+03-08-2015 @ 22:36:56 - Requesting session ID...
+03-08-2015 @ 22:36:58 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-08-2015 @ 22:36:58 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Sun, 08 Mar 2015 22:36:57 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-08-2015 @ 22:39:56 - Requesting token for order 4343 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ASPS-4343]]></reference>
+  <sender>
+    <name><![CDATA[Amanda Martins]]></name>
+    <email><![CDATA[amanda_ams2@hotmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>05132728529</value>
+      </document>
+    </documents>
+    <phone>
+      <areaCode>71</areaCode>
+      <number>92307069</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Avenida Luís Viana]]></street>
+      <number>6312</number>
+      <complement><![CDATA[Torre c ap 2409]]></complement>
+      <district><![CDATA[Patamares]]></district>
+      <postalCode>41680400</postalCode>
+      <city><![CDATA[Salvador]]></city>
+      <state>BA</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[teste]]></description>
+      <amount>2.00</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[https://allsensations.com.br/checkout/order-received/4343?key=wc_order_54fccfbbe5696]]></redirectURL>
+  <notificationURL><![CDATA[https://allsensations.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+03-08-2015 @ 22:39:57 - PagSeguro Payment Token created with success! The Token is: 7A724E642020453774346F8C8A964075
+03-08-2015 @ 22:42:41 - Checking IPN request...
+03-08-2015 @ 22:42:42 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-03-08T19:40:05.000-03:00
+    [code] => B1950CB9-B764-4A6C-81E1-7AB8144D7184
+    [reference] => ASPS-4343
+    [type] => 1
+    [status] => 3
+    [lastEventDate] => 2015-03-08T19:42:39.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 2.00
+    [discountAmount] => 0.00
+    [feeAmount] => 0.50
+    [netAmount] => 1.50
+    [extraAmount] => 0.00
+    [escrowEndDate] => 2015-03-22T19:42:39.000-03:00
+    [installmentCount] => 1
+    [paymentReleases] => SimpleXMLElement Object
+        (
+            [paymentRelease] => SimpleXMLElement Object
+                (
+                    [installment] => 1
+                    [totalAmount] => 1.50
+                    [releaseAmount] => 1.50
+                    [status] => OPENED
+                    [releaseDate] => 2015-03-22T19:42:39-03:00
+                )
+
+        )
+
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => teste
+                    [quantity] => 1
+                    [amount] => 2.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Amanda Almeida Martins
+            [email] => amanda_ams2@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 71
+                    [number] => 92307069
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Avenida Luís Viana
+                    [number] => 6312
+                    [complement] => Torre c ap 2409
+                    [district] => Patamares
+                    [city] => Salvador
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 41680400
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)
+
+03-08-2015 @ 22:42:42 - PagSeguro payment status for order 4343 is: 3
+03-08-2015 @ 22:42:43 - PagSeguro payment status for order 4343 is: 3
+03-11-2015 @ 11:27:11 - Requesting session ID...
+03-11-2015 @ 11:27:12 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 11:27:12 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 11:27:12 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 11:32:07 - Requesting session ID...
+03-11-2015 @ 11:32:08 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 11:32:08 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 11:32:07 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 11:33:11 - Requesting session ID...
+03-11-2015 @ 11:33:12 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 11:33:12 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 11:33:11 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 11:37:29 - Requesting session ID...
+03-11-2015 @ 11:37:30 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 11:37:30 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 11:37:29 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 11:40:51 - Requesting session ID...
+03-11-2015 @ 11:40:52 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 11:40:52 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 11:40:51 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 11:40:55 - Requesting session ID...
+03-11-2015 @ 11:40:56 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 11:40:56 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 11:40:56 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 11:42:10 - Requesting session ID...
+03-11-2015 @ 11:42:11 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 11:42:11 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 11:42:11 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 11:42:14 - Requesting session ID...
+03-11-2015 @ 11:42:15 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 11:42:15 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 11:42:15 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:34:28 - Requesting session ID...
+03-11-2015 @ 12:34:29 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:34:29 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:34:28 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:42:05 - Requesting session ID...
+03-11-2015 @ 12:42:06 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:42:06 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:42:06 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:42:10 - Requesting session ID...
+03-11-2015 @ 12:42:10 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:42:10 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:42:10 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:42:24 - Requesting session ID...
+03-11-2015 @ 12:42:25 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:42:25 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:42:24 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:42:28 - Requesting session ID...
+03-11-2015 @ 12:42:28 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:42:28 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:42:28 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:43:11 - Requesting session ID...
+03-11-2015 @ 12:43:12 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:43:12 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:43:11 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:43:26 - Requesting session ID...
+03-11-2015 @ 12:43:27 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:43:27 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:43:26 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:47:11 - Requesting session ID...
+03-11-2015 @ 12:47:12 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:47:12 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:47:11 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:48:13 - Requesting session ID...
+03-11-2015 @ 12:48:14 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:48:14 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:48:13 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:52:08 - Requesting session ID...
+03-11-2015 @ 12:52:10 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:52:10 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:52:09 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 12:52:53 - Requesting session ID...
+03-11-2015 @ 12:52:54 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 12:52:54 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 12:52:54 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 13:28:47 - Requesting session ID...
+03-11-2015 @ 13:28:49 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 13:28:49 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 13:28:49 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 19:45:34 - Requesting session ID...
+03-11-2015 @ 19:45:35 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 19:45:35 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 19:45:35 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 19:57:05 - Requesting session ID...
+03-11-2015 @ 19:57:06 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 19:57:06 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 19:57:06 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:26:37 - Requesting session ID...
+03-11-2015 @ 20:26:38 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:26:38 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:26:37 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:27:29 - Requesting session ID...
+03-11-2015 @ 20:27:30 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:27:30 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:27:30 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:28:29 - Requesting session ID...
+03-11-2015 @ 20:28:29 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:28:29 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:28:29 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:29:58 - Requesting session ID...
+03-11-2015 @ 20:29:59 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:29:59 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:29:58 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:30:18 - Requesting session ID...
+03-11-2015 @ 20:30:18 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:30:18 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:30:18 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:32:57 - Requesting session ID...
+03-11-2015 @ 20:32:59 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:32:59 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:32:58 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:34:18 - Requesting session ID...
+03-11-2015 @ 20:34:19 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:34:19 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:34:18 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:35:15 - Requesting session ID...
+03-11-2015 @ 20:35:15 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:35:15 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:35:15 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:36:40 - Requesting session ID...
+03-11-2015 @ 20:36:41 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:36:41 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:36:40 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:42:12 - Requesting session ID...
+03-11-2015 @ 20:42:13 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:42:13 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:42:12 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-11-2015 @ 20:48:44 - Requesting session ID...
+03-11-2015 @ 20:48:45 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-11-2015 @ 20:48:45 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Wed, 11 Mar 2015 20:48:44 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 12:46:37 - Requesting session ID...
+03-12-2015 @ 12:46:38 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 12:46:38 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 12:46:37 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 12:48:39 - Requesting session ID...
+03-12-2015 @ 12:48:40 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 12:48:40 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 12:48:40 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 13:09:34 - Requesting session ID...
+03-12-2015 @ 13:09:35 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 13:09:35 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 13:09:34 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 13:10:46 - Requesting session ID...
+03-12-2015 @ 13:10:47 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 13:10:47 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 13:10:47 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 13:17:52 - Requesting session ID...
+03-12-2015 @ 13:17:53 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 13:17:53 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 13:17:53 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 13:18:32 - Requesting session ID...
+03-12-2015 @ 13:18:33 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 13:18:33 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 13:18:33 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 13:23:36 - Requesting session ID...
+03-12-2015 @ 13:23:37 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 13:23:37 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 13:23:36 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 13:37:36 - Requesting session ID...
+03-12-2015 @ 13:37:37 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 13:37:37 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 13:37:36 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-12-2015 @ 14:14:42 - Requesting session ID...
+03-12-2015 @ 14:14:43 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-12-2015 @ 14:14:43 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 12 Mar 2015 14:14:42 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-14-2015 @ 21:03:51 - Requesting session ID...
+03-14-2015 @ 21:03:52 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+03-14-2015 @ 21:03:52 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Sat, 14 Mar 2015 21:03:52 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+03-22-2015 @ 22:47:44 - Checking IPN request...
+03-22-2015 @ 22:47:46 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-03-08T19:40:05.000-03:00
+    [code] => B1950CB9-B764-4A6C-81E1-7AB8144D7184
+    [reference] => ASPS-4343
+    [type] => 1
+    [status] => 4
+    [lastEventDate] => 2015-03-22T19:47:41.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 101
+        )
+
+    [grossAmount] => 2.00
+    [discountAmount] => 0.00
+    [feeAmount] => 0.50
+    [netAmount] => 1.50
+    [extraAmount] => 0.00
+    [escrowEndDate] => 2015-03-22T19:42:39.000-03:00
+    [installmentCount] => 1
+    [paymentReleases] => SimpleXMLElement Object
+        (
+            [paymentRelease] => SimpleXMLElement Object
+                (
+                    [installment] => 1
+                    [totalAmount] => 1.50
+                    [releaseAmount] => 1.50
+                    [status] => RELEASED
+                    [releaseDate] => 2015-03-22T19:42:39-03:00
+                )
+
+        )
+
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => teste
+                    [quantity] => 1
+                    [amount] => 2.00
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Amanda Almeida Martins
+            [email] => amanda_ams2@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 71
+                    [number] => 92307069
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Avenida Luís Viana
+                    [number] => 6312
+                    [complement] => Torre c ap 2409
+                    [district] => Patamares
+                    [city] => Salvador
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 41680400
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)
+
+03-22-2015 @ 22:47:46 - PagSeguro payment status for order 4343 is: 4
+03-22-2015 @ 22:47:46 - PagSeguro payment status for order 4343 is: 4
+04-07-2015 @ 15:52:31 - Requesting session ID...
+04-07-2015 @ 15:52:33 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+04-07-2015 @ 15:52:33 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 07 Apr 2015 15:52:32 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+04-07-2015 @ 16:00:13 - Requesting session ID...
+04-07-2015 @ 16:00:14 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+04-07-2015 @ 16:00:14 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 07 Apr 2015 16:00:13 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+04-07-2015 @ 16:01:19 - Requesting session ID...
+04-07-2015 @ 16:01:21 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+04-07-2015 @ 16:01:21 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 07 Apr 2015 16:01:21 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+04-07-2015 @ 16:07:35 - Requesting session ID...
+04-07-2015 @ 16:07:36 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+04-07-2015 @ 16:07:36 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 07 Apr 2015 16:07:35 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+04-16-2015 @ 16:50:18 - Requesting session ID...
+04-16-2015 @ 16:50:20 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+04-16-2015 @ 16:50:20 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 16 Apr 2015 16:50:19 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+04-19-2015 @ 19:52:59 - Requesting session ID...
+04-19-2015 @ 19:53:00 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+04-19-2015 @ 19:53:00 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Sun, 19 Apr 2015 19:53:00 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-12-2015 @ 00:47:25 - Requesting session ID...
+05-12-2015 @ 00:47:27 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-12-2015 @ 00:47:27 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 12 May 2015 00:47:26 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-12-2015 @ 02:34:43 - Requesting session ID...
+05-12-2015 @ 02:34:45 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-12-2015 @ 02:34:45 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 12 May 2015 02:34:44 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-12-2015 @ 02:56:40 - Requesting session ID...
+05-12-2015 @ 02:56:41 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-12-2015 @ 02:56:41 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 12 May 2015 02:56:41 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-12-2015 @ 14:38:25 - Requesting session ID...
+05-12-2015 @ 14:38:27 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-12-2015 @ 14:38:27 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 12 May 2015 14:38:26 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-12-2015 @ 14:42:30 - Requesting session ID...
+05-12-2015 @ 14:42:31 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-12-2015 @ 14:42:31 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 12 May 2015 14:42:30 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-12-2015 @ 14:48:42 - Requesting session ID...
+05-12-2015 @ 14:48:43 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-12-2015 @ 14:48:43 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 12 May 2015 14:48:42 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-12-2015 @ 14:50:20 - Requesting token for order 4642 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ASPS-4642]]></reference>
+  <sender>
+    <name><![CDATA[Isabelle dos Santos Silva]]></name>
+    <email><![CDATA[isaah-93@hotmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>06012481551</value>
+      </document>
+    </documents>
+    <phone>
+      <areaCode>75</areaCode>
+      <number>82855157</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Caminho 01, Urbis]]></street>
+      <number>22</number>
+      <district><![CDATA[Urbis]]></district>
+      <postalCode>45400000</postalCode>
+      <city><![CDATA[Valença]]></city>
+      <state>BA</state>
+      <country>BRA</country>
+    </address>
+    <cost>16.20</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Short Saia Amazon - Tamanho: M]]></description>
+      <amount>32.70</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[https://allsensations.com.br/checkout/order-received/4642?key=wc_order_5552132ca4d40]]></redirectURL>
+  <notificationURL><![CDATA[https://allsensations.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+05-12-2015 @ 14:50:22 - PagSeguro Payment Token created with success! The Token is: EB3DAB497878A6ECC4D56FACC44B3638
+05-12-2015 @ 17:17:48 - Checking IPN request...
+05-12-2015 @ 17:17:49 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-05-12T11:50:25.000-03:00
+    [code] => A111B9EF-36B2-49C3-9964-E19B7052BC2E
+    [reference] => ASPS-4642
+    [type] => 1
+    [status] => 3
+    [lastEventDate] => 2015-05-12T11:56:04.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 48.90
+    [discountAmount] => 0.00
+    [feeAmount] => 2.84
+    [netAmount] => 46.06
+    [extraAmount] => 0.00
+    [escrowEndDate] => 2015-05-26T11:56:03.000-03:00
+    [installmentCount] => 3
+    [paymentReleases] => SimpleXMLElement Object
+        (
+            [paymentRelease] => SimpleXMLElement Object
+                (
+                    [installment] => 1
+                    [totalAmount] => 46.06
+                    [releaseAmount] => 46.06
+                    [status] => OPENED
+                    [releaseDate] => 2015-05-26T11:56:03-03:00
+                )
+
+        )
+
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Short Saia Amazon - Tamanho: M
+                    [quantity] => 1
+                    [amount] => 32.70
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Isabelle dos Santos Silva
+            [email] => isaah-93@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 75
+                    [number] => 36413577
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Caminho 01, Urbis
+                    [number] => 22
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Urbis
+                    [city] => Valença
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 45400000
+                )
+
+            [type] => 3
+            [cost] => 16.20
+        )
+
+)
+
+05-12-2015 @ 17:17:49 - PagSeguro payment status for order 4642 is: 3
+05-12-2015 @ 17:17:54 - PagSeguro payment status for order 4642 is: 3
+05-26-2015 @ 17:15:45 - Checking IPN request...
+05-26-2015 @ 17:15:47 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-05-12T11:50:25.000-03:00
+    [code] => A111B9EF-36B2-49C3-9964-E19B7052BC2E
+    [reference] => ASPS-4642
+    [type] => 1
+    [status] => 4
+    [lastEventDate] => 2015-05-26T12:01:04.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 48.90
+    [discountAmount] => 0.00
+    [feeAmount] => 2.84
+    [netAmount] => 46.06
+    [extraAmount] => 0.00
+    [escrowEndDate] => 2015-05-26T11:56:03.000-03:00
+    [installmentCount] => 3
+    [paymentReleases] => SimpleXMLElement Object
+        (
+            [paymentRelease] => SimpleXMLElement Object
+                (
+                    [installment] => 1
+                    [totalAmount] => 46.06
+                    [releaseAmount] => 46.06
+                    [status] => RELEASED
+                    [releaseDate] => 2015-05-26T11:56:03-03:00
+                )
+
+        )
+
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Short Saia Amazon - Tamanho: M
+                    [quantity] => 1
+                    [amount] => 32.70
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Isabelle dos Santos Silva
+            [email] => isaah-93@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 75
+                    [number] => 36413577
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Caminho 01, Urbis
+                    [number] => 22
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Urbis
+                    [city] => Valença
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 45400000
+                )
+
+            [type] => 3
+            [cost] => 16.20
+        )
+
+)
+
+05-26-2015 @ 17:15:47 - PagSeguro payment status for order 4642 is: 4
+05-26-2015 @ 17:15:48 - PagSeguro payment status for order 4642 is: 4
+05-29-2015 @ 14:46:05 - Requesting session ID...
+05-29-2015 @ 14:46:06 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-29-2015 @ 14:46:06 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 29 May 2015 14:46:06 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-29-2015 @ 14:48:05 - Requesting session ID...
+05-29-2015 @ 14:48:06 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-29-2015 @ 14:48:06 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 29 May 2015 14:48:05 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-29-2015 @ 14:50:47 - Requesting session ID...
+05-29-2015 @ 14:50:48 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+05-29-2015 @ 14:50:48 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 29 May 2015 14:50:47 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+05-29-2015 @ 14:52:00 - Requesting token for order 4809 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ASPS-4809]]></reference>
+  <sender>
+    <name><![CDATA[risete cavalcante]]></name>
+    <email><![CDATA[risetecavalcante2015@hotmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>85667528487</value>
+      </document>
+    </documents>
+    <phone>
+      <areaCode>71</areaCode>
+      <number>85534491</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Conjunto Mirante de Periperi]]></street>
+      <number>4</number>
+      <complement><![CDATA[apt]]></complement>
+      <district><![CDATA[Praia Grande]]></district>
+      <postalCode>40725360</postalCode>
+      <city><![CDATA[Salvador]]></city>
+      <state>BA</state>
+      <country>BRA</country>
+    </address>
+    <cost>0</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Calça Colorfly - Tamanho: M]]></description>
+      <amount>77.90</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>2</id>
+      <description><![CDATA[Calça Digital Love Emotions - Tamanho: M]]></description>
+      <amount>87.90</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>3</id>
+      <description><![CDATA[Calça Cirrê Preta - Tamanho: M]]></description>
+      <amount>77.90</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>4</id>
+      <description><![CDATA[Calça Jacquard Preta - Tamanho: M]]></description>
+      <amount>87.00</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>5</id>
+      <description><![CDATA[Calça Let it Be - Tamanho: M]]></description>
+      <amount>77.90</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>6</id>
+      <description><![CDATA[Calça Digital Supermix - Tamanho: M]]></description>
+      <amount>87.90</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>7</id>
+      <description><![CDATA[Calça Jacquard Rosa - Tamanho: M]]></description>
+      <amount>87.00</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>8</id>
+      <description><![CDATA[Calça Mescla - Tamanho: M]]></description>
+      <amount>72.90</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>9</id>
+      <description><![CDATA[Calça NK - Tamanho: M]]></description>
+      <amount>77.90</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>10</id>
+      <description><![CDATA[Calça MixUp - Tamanho: M]]></description>
+      <amount>77.90</amount>
+      <quantity>1</quantity>
+    </item>
+    <item>
+      <id>11</id>
+      <description><![CDATA[Calça Purplet - Tamanho: M]]></description>
+      <amount>72.90</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[https://allsensations.com.br/checkout/order-received/4809?key=wc_order_55687d10babb3]]></redirectURL>
+  <notificationURL><![CDATA[https://allsensations.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+05-29-2015 @ 14:52:02 - PagSeguro Payment Token created with success! The Token is: 8E55A6989696058224D02FBB05884D1B
+05-29-2015 @ 14:53:27 - Checking IPN request...
+05-29-2015 @ 14:53:28 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-05-29T11:52:02.000-03:00
+    [code] => 9D4E9CF6-F183-44B7-B7FC-80D1885250F2
+    [reference] => ASPS-4809
+    [recoveryCode] => 7df5a68dd88c50bb5e20d36e698b1fa7ab4bf419acf9bd70
+    [type] => 1
+    [status] => 1
+    [lastEventDate] => 2015-05-29T11:53:23.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 885.10
+    [discountAmount] => 0.00
+    [feeAmount] => 44.57
+    [netAmount] => 840.53
+    [extraAmount] => 0.00
+    [installmentCount] => 4
+    [itemCount] => 11
+    [items] => SimpleXMLElement Object
+        (
+            [item] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [id] => 1
+                            [description] => Calça Colorfly - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [id] => 2
+                            [description] => Calça Digital Love Emotions - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.90
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                            [id] => 3
+                            [description] => Calça Cirrê Preta - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                            [id] => 4
+                            [description] => Calça Jacquard Preta - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.00
+                        )
+
+                    [4] => SimpleXMLElement Object
+                        (
+                            [id] => 5
+                            [description] => Calça Let it Be - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [5] => SimpleXMLElement Object
+                        (
+                            [id] => 6
+                            [description] => Calça Digital Supermix - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.90
+                        )
+
+                    [6] => SimpleXMLElement Object
+                        (
+                            [id] => 7
+                            [description] => Calça Jacquard Rosa - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.00
+                        )
+
+                    [7] => SimpleXMLElement Object
+                        (
+                            [id] => 8
+                            [description] => Calça Mescla - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 72.90
+                        )
+
+                    [8] => SimpleXMLElement Object
+                        (
+                            [id] => 9
+                            [description] => Calça NK - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [9] => SimpleXMLElement Object
+                        (
+                            [id] => 10
+                            [description] => Calça MixUp - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [10] => SimpleXMLElement Object
+                        (
+                            [id] => 11
+                            [description] => Calça Purplet - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 72.90
+                        )
+
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => risete cavalvante da silva
+            [email] => risetecavalcante2015@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 71
+                    [number] => 85534491
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Conjunto Mirante de Periperi
+                    [number] => 4
+                    [complement] => apt
+                    [district] => Praia Grande
+                    [city] => Salvador
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 40725360
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)
+
+05-29-2015 @ 14:53:28 - PagSeguro payment status for order 4809 is: 1
+05-29-2015 @ 14:53:31 - PagSeguro payment status for order 4809 is: 1
+05-29-2015 @ 14:58:24 - Checking IPN request...
+05-29-2015 @ 14:58:25 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-05-29T11:52:02.000-03:00
+    [code] => 9D4E9CF6-F183-44B7-B7FC-80D1885250F2
+    [reference] => ASPS-4809
+    [recoveryCode] => 7df5a68dd88c50bb5e20d36e698b1fa7ab4bf419acf9bd70
+    [type] => 1
+    [status] => 1
+    [lastEventDate] => 2015-05-29T11:58:20.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 885.10
+    [discountAmount] => 0.00
+    [feeAmount] => 44.57
+    [netAmount] => 840.53
+    [extraAmount] => 0.00
+    [installmentCount] => 4
+    [itemCount] => 11
+    [items] => SimpleXMLElement Object
+        (
+            [item] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [id] => 1
+                            [description] => Calça Colorfly - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [id] => 2
+                            [description] => Calça Digital Love Emotions - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.90
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                            [id] => 3
+                            [description] => Calça Cirrê Preta - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                            [id] => 4
+                            [description] => Calça Jacquard Preta - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.00
+                        )
+
+                    [4] => SimpleXMLElement Object
+                        (
+                            [id] => 5
+                            [description] => Calça Let it Be - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [5] => SimpleXMLElement Object
+                        (
+                            [id] => 6
+                            [description] => Calça Digital Supermix - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.90
+                        )
+
+                    [6] => SimpleXMLElement Object
+                        (
+                            [id] => 7
+                            [description] => Calça Jacquard Rosa - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.00
+                        )
+
+                    [7] => SimpleXMLElement Object
+                        (
+                            [id] => 8
+                            [description] => Calça Mescla - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 72.90
+                        )
+
+                    [8] => SimpleXMLElement Object
+                        (
+                            [id] => 9
+                            [description] => Calça NK - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [9] => SimpleXMLElement Object
+                        (
+                            [id] => 10
+                            [description] => Calça MixUp - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [10] => SimpleXMLElement Object
+                        (
+                            [id] => 11
+                            [description] => Calça Purplet - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 72.90
+                        )
+
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => risete cavalvante da silva
+            [email] => risetecavalcante2015@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 71
+                    [number] => 85534491
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Conjunto Mirante de Periperi
+                    [number] => 4
+                    [complement] => apt
+                    [district] => Praia Grande
+                    [city] => Salvador
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 40725360
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)
+
+05-29-2015 @ 14:58:25 - PagSeguro payment status for order 4809 is: 1
+05-29-2015 @ 14:58:25 - PagSeguro payment status for order 4809 is: 1
+05-31-2015 @ 15:01:43 - Checking IPN request...
+05-31-2015 @ 15:01:53 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-05-29T11:52:02.000-03:00
+    [code] => 9D4E9CF6-F183-44B7-B7FC-80D1885250F2
+    [reference] => ASPS-4809
+    [type] => 1
+    [status] => 7
+    [cancellationSource] => EXTERNAL
+    [lastEventDate] => 2015-05-31T12:01:37.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 885.10
+    [discountAmount] => 0.00
+    [feeAmount] => 44.57
+    [netAmount] => 840.53
+    [extraAmount] => 0.00
+    [installmentCount] => 4
+    [itemCount] => 11
+    [items] => SimpleXMLElement Object
+        (
+            [item] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [id] => 1
+                            [description] => Calça Colorfly - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [id] => 2
+                            [description] => Calça Digital Love Emotions - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.90
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                            [id] => 3
+                            [description] => Calça Cirrê Preta - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                            [id] => 4
+                            [description] => Calça Jacquard Preta - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.00
+                        )
+
+                    [4] => SimpleXMLElement Object
+                        (
+                            [id] => 5
+                            [description] => Calça Let it Be - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [5] => SimpleXMLElement Object
+                        (
+                            [id] => 6
+                            [description] => Calça Digital Supermix - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.90
+                        )
+
+                    [6] => SimpleXMLElement Object
+                        (
+                            [id] => 7
+                            [description] => Calça Jacquard Rosa - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.00
+                        )
+
+                    [7] => SimpleXMLElement Object
+                        (
+                            [id] => 8
+                            [description] => Calça Mescla - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 72.90
+                        )
+
+                    [8] => SimpleXMLElement Object
+                        (
+                            [id] => 9
+                            [description] => Calça NK - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [9] => SimpleXMLElement Object
+                        (
+                            [id] => 10
+                            [description] => Calça MixUp - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [10] => SimpleXMLElement Object
+                        (
+                            [id] => 11
+                            [description] => Calça Purplet - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 72.90
+                        )
+
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => risete cavalvante da silva
+            [email] => risetecavalcante2015@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 71
+                    [number] => 85534491
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Conjunto Mirante de Periperi
+                    [number] => 4
+                    [complement] => apt
+                    [district] => Praia Grande
+                    [city] => Salvador
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 40725360
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)
+
+05-31-2015 @ 15:01:53 - PagSeguro payment status for order 4809 is: 7
+05-31-2015 @ 15:01:56 - PagSeguro payment status for order 4809 is: 7
+05-31-2015 @ 17:15:31 - Checking IPN request...
+05-31-2015 @ 17:15:33 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-05-29T11:52:02.000-03:00
+    [code] => 9D4E9CF6-F183-44B7-B7FC-80D1885250F2
+    [reference] => ASPS-4809
+    [type] => 1
+    [status] => 7
+    [cancellationSource] => EXTERNAL
+    [lastEventDate] => 2015-05-31T12:01:37.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 102
+        )
+
+    [grossAmount] => 885.10
+    [discountAmount] => 0.00
+    [feeAmount] => 44.57
+    [netAmount] => 840.53
+    [extraAmount] => 0.00
+    [installmentCount] => 4
+    [itemCount] => 11
+    [items] => SimpleXMLElement Object
+        (
+            [item] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [id] => 1
+                            [description] => Calça Colorfly - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [id] => 2
+                            [description] => Calça Digital Love Emotions - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.90
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                            [id] => 3
+                            [description] => Calça Cirrê Preta - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                            [id] => 4
+                            [description] => Calça Jacquard Preta - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.00
+                        )
+
+                    [4] => SimpleXMLElement Object
+                        (
+                            [id] => 5
+                            [description] => Calça Let it Be - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [5] => SimpleXMLElement Object
+                        (
+                            [id] => 6
+                            [description] => Calça Digital Supermix - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.90
+                        )
+
+                    [6] => SimpleXMLElement Object
+                        (
+                            [id] => 7
+                            [description] => Calça Jacquard Rosa - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 87.00
+                        )
+
+                    [7] => SimpleXMLElement Object
+                        (
+                            [id] => 8
+                            [description] => Calça Mescla - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 72.90
+                        )
+
+                    [8] => SimpleXMLElement Object
+                        (
+                            [id] => 9
+                            [description] => Calça NK - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [9] => SimpleXMLElement Object
+                        (
+                            [id] => 10
+                            [description] => Calça MixUp - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 77.90
+                        )
+
+                    [10] => SimpleXMLElement Object
+                        (
+                            [id] => 11
+                            [description] => Calça Purplet - Tamanho: M
+                            [quantity] => 1
+                            [amount] => 72.90
+                        )
+
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => risete cavalvante da silva
+            [email] => risetecavalcante2015@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 71
+                    [number] => 85534491
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Conjunto Mirante de Periperi
+                    [number] => 4
+                    [complement] => apt
+                    [district] => Praia Grande
+                    [city] => Salvador
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 40725360
+                )
+
+            [type] => 3
+            [cost] => 0.00
+        )
+
+)
+
+05-31-2015 @ 17:15:33 - PagSeguro payment status for order 4809 is: 7
+05-31-2015 @ 17:15:33 - PagSeguro payment status for order 4809 is: 7
+06-04-2015 @ 21:46:57 - Requesting session ID...
+06-04-2015 @ 21:46:58 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+06-04-2015 @ 21:46:58 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Thu, 04 Jun 2015 21:46:57 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+06-29-2015 @ 17:13:48 - Requesting session ID...
+06-29-2015 @ 17:14:00 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+06-29-2015 @ 17:14:00 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Mon, 29 Jun 2015 17:14:00 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+06-29-2015 @ 22:29:09 - Requesting session ID...
+06-29-2015 @ 22:29:10 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+06-29-2015 @ 22:29:10 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Mon, 29 Jun 2015 22:29:10 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+06-30-2015 @ 00:41:25 - Requesting session ID...
+06-30-2015 @ 00:41:27 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+06-30-2015 @ 00:41:27 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Tue, 30 Jun 2015 00:41:27 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+07-03-2015 @ 13:15:24 - Requesting session ID...
+07-03-2015 @ 13:15:26 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+07-03-2015 @ 13:15:26 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Fri, 03 Jul 2015 13:15:26 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-03-2015 @ 14:52:35 - Requesting session ID...
+08-03-2015 @ 14:52:36 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+08-03-2015 @ 14:52:36 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Mon, 03 Aug 2015 14:52:36 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-03-2015 @ 14:53:28 - Requesting session ID...
+08-03-2015 @ 14:53:29 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+08-03-2015 @ 14:53:29 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Mon, 03 Aug 2015 14:53:29 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-03-2015 @ 17:52:04 - Requesting session ID...
+08-03-2015 @ 17:52:07 - Error while parsing the PagSeguro session response: String could not be parsed as XML
+08-03-2015 @ 17:52:07 - Session Response: Array
+(
+    [headers] => Array
+        (
+            [date] => Mon, 03 Aug 2015 17:52:06 GMT
+            [server] => Apache-Coyote/1.1
+            [content-type] => text/plain;charset=ISO-8859-1
+            [content-length] => 9
+            [vary] => User-Agent
+            [connection] => close
+        )
+
+    [body] => Forbidden
+    [response] => Array
+        (
+            [code] => 403
+            [message] => Forbidden
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+)
+
+08-03-2015 @ 17:59:19 - Requesting token for order 4910 with the following data: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<checkout>
+  <currency>BRL</currency>
+  <reference><![CDATA[ASPS-4910]]></reference>
+  <sender>
+    <name><![CDATA[Isabelle dos Santos Silva]]></name>
+    <email><![CDATA[isaah-93@hotmail.com]]></email>
+    <documents>
+      <document>
+        <type>CPF</type>
+        <value>06012481551</value>
+      </document>
+    </documents>
+    <phone>
+      <areaCode>75</areaCode>
+      <number>82855157</number>
+    </phone>
+  </sender>
+  <shipping>
+    <type>3</type>
+    <address>
+      <street><![CDATA[Caminho 01]]></street>
+      <number>22</number>
+      <district><![CDATA[Urbis]]></district>
+      <postalCode>45400000</postalCode>
+      <city><![CDATA[Valença]]></city>
+      <state>BA</state>
+      <country>BRA</country>
+    </address>
+    <cost>17.30</cost>
+  </shipping>
+  <items>
+    <item>
+      <id>1</id>
+      <description><![CDATA[Calça Cós Alto Royal Sensations - Tamanho: M]]></description>
+      <amount>79.70</amount>
+      <quantity>1</quantity>
+    </item>
+  </items>
+  <redirectURL><![CDATA[https://allsensations.com.br/checkout/order-received/4910?key=wc_order_55bfabf75acc1]]></redirectURL>
+  <notificationURL><![CDATA[https://allsensations.com.br/wc-api/WC_PagSeguro_Gateway/]]></notificationURL>
+  <maxUses>1</maxUses>
+  <maxAge>120</maxAge>
+</checkout>
+
+08-03-2015 @ 17:59:21 - PagSeguro Payment Token created with success! The Token is: C5536EF7D6D64DF774E8FFA249A9EC82
+08-03-2015 @ 18:09:36 - Checking IPN request...
+08-03-2015 @ 18:09:37 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-08-03T14:59:30.000-03:00
+    [code] => 9C98E3D7-831E-46C3-A218-76594B0A68AA
+    [reference] => ASPS-4910
+    [recoveryCode] => 7df5a68dd88c50bb7ba18b46e7470526501e2c160bfc0655
+    [type] => 1
+    [status] => 1
+    [lastEventDate] => 2015-08-03T15:09:32.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 105
+        )
+
+    [grossAmount] => 97.00
+    [discountAmount] => 0.00
+    [feeAmount] => 5.24
+    [netAmount] => 91.76
+    [extraAmount] => 0.00
+    [installmentCount] => 2
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Calça Cós Alto Royal Sensations - Tamanho: M
+                    [quantity] => 1
+                    [amount] => 79.70
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Isabelle S Silva
+            [email] => isaah-93@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 75
+                    [number] => 88489304
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Caminho 01
+                    [number] => 22
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Urbis
+                    [city] => Valença
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 45400000
+                )
+
+            [type] => 3
+            [cost] => 17.30
+        )
+
+)
+
+08-03-2015 @ 18:09:37 - PagSeguro payment status for order 4910 is: 1
+08-03-2015 @ 18:09:39 - PagSeguro payment status for order 4910 is: 1
+08-05-2015 @ 18:16:27 - Checking IPN request...
+08-05-2015 @ 18:16:34 - PagSeguro IPN is valid! The return is: SimpleXMLElement Object
+(
+    [date] => 2015-08-03T14:59:30.000-03:00
+    [code] => 9C98E3D7-831E-46C3-A218-76594B0A68AA
+    [reference] => ASPS-4910
+    [type] => 1
+    [status] => 7
+    [cancellationSource] => EXTERNAL
+    [lastEventDate] => 2015-08-05T15:16:21.000-03:00
+    [paymentMethod] => SimpleXMLElement Object
+        (
+            [type] => 1
+            [code] => 105
+        )
+
+    [grossAmount] => 97.00
+    [discountAmount] => 0.00
+    [feeAmount] => 5.24
+    [netAmount] => 91.76
+    [extraAmount] => 0.00
+    [installmentCount] => 2
+    [itemCount] => 1
+    [items] => SimpleXMLElement Object
+        (
+            [item] => SimpleXMLElement Object
+                (
+                    [id] => 1
+                    [description] => Calça Cós Alto Royal Sensations - Tamanho: M
+                    [quantity] => 1
+                    [amount] => 79.70
+                )
+
+        )
+
+    [sender] => SimpleXMLElement Object
+        (
+            [name] => Isabelle S Silva
+            [email] => isaah-93@hotmail.com
+            [phone] => SimpleXMLElement Object
+                (
+                    [areaCode] => 75
+                    [number] => 88489304
+                )
+
+        )
+
+    [shipping] => SimpleXMLElement Object
+        (
+            [address] => SimpleXMLElement Object
+                (
+                    [street] => Caminho 01
+                    [number] => 22
+                    [complement] => SimpleXMLElement Object
+                        (
+                        )
+
+                    [district] => Urbis
+                    [city] => Valença
+                    [state] => BA
+                    [country] => BRA
+                    [postalCode] => 45400000
+                )
+
+            [type] => 3
+            [cost] => 17.30
+        )
+
+)
+
+08-05-2015 @ 18:16:34 - PagSeguro payment status for order 4910 is: 7
+08-05-2015 @ 18:16:36 - PagSeguro payment status for order 4910 is: 7
